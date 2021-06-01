@@ -1,0 +1,5 @@
+Package: HydRun
+Type: Package
+Title: R implementation of the MATLAB toolbox HydRun
+Version: 0.0.1.0
+RoxygenNote: 7.1.1
