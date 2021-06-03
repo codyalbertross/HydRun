@@ -17,7 +17,7 @@ match.precip.runoff(PrecipEvents, RunoffEvents, n)
 A list containing matched precipitation and runoff events.
 }
 \description{
-\code{match.precip.runoff} is used to match precipitation-runoff events  a stream hydrograph into baseflow and stormflow.
+\code{match.precip.runoff} is used to match precipitation-runoff events.
 }
 \note{
 This is an R implementation of a function from the MATLAB toolbox HydRun.

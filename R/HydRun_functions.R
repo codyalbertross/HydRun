@@ -391,7 +391,7 @@ get.mode <- function(v) {
 
 #' Match precipitation and runoff events
 #'
-#' \code{match.precip.runoff} is used to match precipitation-runoff events  a stream hydrograph into baseflow and stormflow.
+#' \code{match.precip.runoff} is used to match precipitation-runoff events.
 #' @param PrecipEvents A list containing precipitation events, where each event is a data frame (format is 2 columns: datetime and precipitation).
 #' @param RunoffEvents A list containing runoff events, where each event is a data frame (format is 2 columns: datetime and stormflow).
 #' @param n The search window. The left edge of the window is n hours before the start of the runoff event.
